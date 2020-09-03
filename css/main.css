@@ -1,6 +1,28 @@
-body
-{
- background-image: url("../img/Vízcseppek.jpg");
- 
-}
+body{background-image: url("../img/Háttér.jpg")}
+body{width: 100%; height: 100%;}
 
+tbody{font-size: 25px;}
+caption{font-size: 25px;padding: 10px;}
+th{font-size: 20px;padding-right: 30px;}
+table{margin-left: 350px; margin-top: 15px;}
+td{padding-right: 30px;}
+
+
+
+
+
+
+/*
+<form action="" style="text-align:right;">
+        <label for="name"> Felhasználó-Név</label>
+        <input id="name" name="name" type="text" placeholder="" required>
+    </form>
+    <form action="" style="text-align:right;">
+        <label for="name">Jelszó</label>
+        <input id="name" name="name" type="password" placeholder="" required>
+    </form>
+    <form action="" style="text-align: right;">
+        <button style="width: 175px;height: 40px;margin-top: 
+        10px;background-color:rgb(111, 246, 111);"><b>Belépés</b> </button>
+    </form>
+    */
